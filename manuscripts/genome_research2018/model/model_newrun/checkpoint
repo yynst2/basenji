@@ -1,3 +1,0 @@
-model_checkpoint_path: "model_check.tf"
-all_model_checkpoint_paths: "model_best.tf"
-all_model_checkpoint_paths: "model_check.tf"
